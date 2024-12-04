@@ -32,7 +32,7 @@ Noticias, Eventos, Anuncios
 - [bitcoin++: Florianópolis](https://btcplusplus.dev/conf/floripa)
 - [TABConf7](https://6.tabconf.com/)
 
-## Nuevos oficinas de desarrollo
+## Nuevas oficinas de desarrollo
 - [2140 in Europe](https://2140.dev/)
 - [Localhost Research in San Francisco](https://lclhost.org/)
 
