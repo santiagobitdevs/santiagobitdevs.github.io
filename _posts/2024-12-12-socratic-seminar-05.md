@@ -3,7 +3,7 @@ published: true
 layout: post
 type: socratic
 title: "Seminario Socrático #5 Ecash"
-meetup: https://www.meetup.com/es-ES/santiago-bitdevs/events/302428180/
+meetup: https://www.meetup.com/es-ES/santiago-bitdevs/events/304907541/
 ---
 
 House Keeping
