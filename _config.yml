@@ -16,3 +16,6 @@ description: "BitDevs is a community for those interested in discussing and part
 exclude: ["README.md", "Gemfile", "Gemfile.lock", ".sass-cache"]
 
 future: true
+
+baseurl: /
+url: https://santiagobitdevs.github.io
