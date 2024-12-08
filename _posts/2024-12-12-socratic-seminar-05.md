@@ -48,8 +48,13 @@ Tema principal: Ecash
 - Basics of Ecash by Kley Santos
 
 ## Lecturas
-- [Introduction](https://bitcoin.design/guide/how-it-works/ecash/introduction/)
-- [Fedimint](https://bitcoin.design/guide/how-it-works/ecash/fedimint/)
+- [eCash Introduction](https://bitcoin.design/guide/how-it-works/ecash/introduction/)
+    - [eCash timeline](https://chaum.com/ecash/)
+- [Blind Signatures](https://github.com/pburkart/Blind-Signatures-for-Untraceable-Payments/blob/main/Paper.md)
+- [Fedimint](https://fedimint.org/)
+- [Fedimint Technical Reference Documentation](https://fedimint.org/docs/technical-reference-documentation/)
+- [Fedimint: Decentralized Bitcoin Custody and eCash Protocol](https://bitcoin.design/guide/how-it-works/ecash/fedimint/)
+- [Fedimint Observer](https://github.com/elsirion/fedimint-observer/)
 
 
 Discusión
