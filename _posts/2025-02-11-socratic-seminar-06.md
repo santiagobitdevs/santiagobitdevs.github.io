@@ -2,7 +2,7 @@
 published: true
 layout: post
 type: socratic
-title: "Seminario Socrático #6 Taro Assets"
+title: "Seminario Socrático #6 Taproot Assets"
 meetup: https://www.meetup.com/es-ES/santiago-bitdevs/events/305918084
 ---
 
