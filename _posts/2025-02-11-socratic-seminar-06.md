@@ -43,7 +43,7 @@ Tema principal: Taro Assets
 Discusión
 ---------
 ## Tweets & Blogs
-TBD
+- [Agent buying domain using lightning](https://x.com/positiveblue2/status/1886214580726321422)
 
 ## Delving Bitcoin
 TBD
