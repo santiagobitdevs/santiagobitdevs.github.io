@@ -38,7 +38,7 @@ Tema principal: Taro Assets
 - Intro to Taro Assets by Maurice Poirrier
 
 ## Lecturas
-TBD
+- [CAddrMan Integer Overflow Vulnerability](https://blog.jgmontoya.com/2025/02/04/CAddrMan-Vulnerability.html)
 
 Discusión
 ---------
