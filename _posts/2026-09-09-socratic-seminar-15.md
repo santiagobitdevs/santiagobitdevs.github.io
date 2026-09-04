@@ -2,7 +2,7 @@
 published: true
 layout: post
 type: socratic
-title: "Seminario Socrático #15: TBD"
+title: "Seminario Socrático #15: Compact Block Filters"
 meetup: https://luma.com/i024qptx
 ---
 
@@ -45,7 +45,7 @@ Chain Weather Report
 * [Script Restoration BIPs: fix OP_RIGHT definition, clarify and adjust costing with wordspan notation, UPSHIFT, CLTV/CSV, final success-check](https://github.com/bitcoin/bips/pull/2204)
 
 ## Presentaciones: 
-- TODO
+- Compact Block Filters
 
 ## Misceláneo
 
