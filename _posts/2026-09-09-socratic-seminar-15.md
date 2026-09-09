@@ -35,13 +35,14 @@ Chain Weather Report
 * [Disclosure: LND doesn't wait for enough confirmations when closing channels](https://delvingbitcoin.org/t/disclosure-lnd-doesnt-wait-for-enough-confirmations-when-closing-channels/2800)
 * [Disclosure: Crashing CLN with a flood of pings](https://delvingbitcoin.org/t/disclosure-crashing-cln-with-a-flood-of-pings/2846)
 * [BIP 360 (P2MR) implemented in Bitcoin Core on regtest: vector results, measurements, spec feedback](https://delvingbitcoin.org/t/bip-360-p2mr-implemented-in-bitcoin-core-on-regtest-vector-results-measurements-spec-feedback)
+* [Liquid Network hack: attackers drained 4,000 BTC and returned 85%](https://www.trmlabs.com/resources/blog/2026s-biggest-hack-to-date-attackers-drained-usd-319-million-in-bitcoin-from-liquid-network-then-returned-85-of-funds)
+* [Elements rangeproof cache consensus failure: technical root-cause analysis](https://gist.github.com/1440000bytes/211ac92dd4433bb1a2e674bf0ff7db2e)
 * [Add "silentpayments" module implementing BIP352 (take 4, limited to full-node scanning)](https://github.com/bitcoin-core/secp256k1/pull/1765)
 
 ## Research
 
 * [Bitcoin Mempool Linearization](https://arxiv.org/abs/2607.23787)
 * [Libshrincs: A C implementation with a machine-checked security proof](https://delvingbitcoin.org/t/libshrincs-a-c-implementation-with-a-machine-checked-security-proof/2795)
-* [BIP-39: Add shortcomings section, drop comments headers.](https://github.com/bitcoin/bips/pull/2184)
 * [Script Restoration BIPs: fix OP_RIGHT definition, clarify and adjust costing with wordspan notation, UPSHIFT, CLTV/CSV, final success-check](https://github.com/bitcoin/bips/pull/2204)
 
 ## Presentaciones: 
